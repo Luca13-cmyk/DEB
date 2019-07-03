@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=teste python
+Icon=teste
+Type=Application
+Categories=Utility;
+Exec=teste
+StartupNotify=false
+Terminal=true

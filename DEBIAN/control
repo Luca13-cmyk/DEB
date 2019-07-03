@@ -1,0 +1,14 @@
+Package:teste
+Version: 0.1
+Priority:
+Architecture: all
+Essential:
+Depends:python3
+Pre-depends:
+Suggests:
+Installed-Size:
+Maintainer: Luca Negrette
+Conflicts:
+Replaces:
+Provides:
+Description: bla bla bla bla
